@@ -8,10 +8,6 @@ Default Path:
 Since the script modifies files in the user's App Data directory, administrator privileges may be required.
 Second, make sure not to run the mod twice after install as I'm not sure if that may or may not cause errors.
 
-Source Code:
-
-Github Repository
-
 Note:
 I realize not everyone may be having issues, but for me and my friends we had to scour nexus for hours to find someone who had managed to pinpoint the issue, and I got annoyed doing it manually every time I wanted to try a mod.
 
@@ -32,11 +28,11 @@ To use it:
 Thats it! Your mods should work! Also, this fix should work for future versions of Baldur's Gate 3.
 
 
-To update this tool for a new version of Baldur's gate 3 or if you want to add more mods and your game_version.lsx file is missing:
+To update this tool for a new version of Baldur's gate 3
 
 
 1. Delete your modsettings.lsx file in Local Appdata, than run your game. (This will create a new baseline file)
 
-2. If the game has updated, delete your game_version.lsx file in the tool's folder. Then run the tool as if it is a first time use.
+2. Delete your game_version.lsx file in the tool's folder. Then run the tool as if it is a first time use.
 
 I imagine this will become obsolete as the BG3 Mod Manager is updated, but it should work perpetually.
